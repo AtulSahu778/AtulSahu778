@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AtulSahu778
+- 👋 Hi, I’m @AtulSahu
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on C++ projects
