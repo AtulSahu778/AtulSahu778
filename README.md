@@ -13,7 +13,7 @@
 💡 Strong foundation in **C++ and Data Structures & Algorithms**  
 🤝 Open to collaborating on **Exciting Projects & Hackathons**  
 📬 Contact me at **sahuatul2005@gmail.com**  
-⚡ Fun fact: **I believe debugging is an art 🧑‍🎨**  
+⚡ Fun fact: **I build my ideas with my keyboard ⌨️💡**  
 
 ---
 
@@ -78,10 +78,10 @@
 
 ---
 
-### 🎯 Fun Projects  
-🚀 **[My Portfolio Website](https://atul-sahu.dev)** - A personal portfolio built with React.js and Tailwind CSS  
-🛒 **[E-commerce Store](https://github.com/atul-sahu/ecommerce)** - Full-stack MERN e-commerce store  
-📄 **[Blog App](https://github.com/atul-sahu/blog-app)** - A blog application built using Next.js  
+### 🌟 Featured Projects  
+🚀 **Amazon Clone** - [Live Demo](https://amazon-clone-atul-mu.vercel.app/) | [GitHub Repo](#)  
+🖥️ **YouTube Clone** - [Live Demo](https://youtube-clone-atul.vercel.app/) | [GitHub Repo](#)  
+🍏 **Apple Website Clone** - [Live Demo](https://applebyatul.vercel.app/) | [GitHub Repo](#)  
 
 ---
 
