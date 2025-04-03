@@ -65,15 +65,15 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atul-sahu&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atul-sahu&theme=radical" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ofc-atul&show_icons=true&theme=radical" alt="Atul Sahu's GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofc-atul&theme=radical" alt="Atul Sahu's GitHub Streak" width="45%" />
 </p>  
 
 ---
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atul-sahu&theme=darkhub" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ofc-atul&theme=darkhub" alt="Atul Sahu's GitHub Trophies" />
 </p>
 
 ---
