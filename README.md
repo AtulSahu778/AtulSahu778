@@ -13,7 +13,7 @@
 💡 Strong foundation in **C++ and Data Structures & Algorithms**  
 🤝 Open to collaborating on **Exciting Projects & Hackathons**  
 📬 Contact me at **sahuatul2005@gmail.com**  
-⚡ Fun fact: **I build my ideas with my keyboard ⌨️💡**  
+⚡ Fun fact: **I believe debugging is an art 🧑‍🎨**  
 
 ---
 
@@ -65,23 +65,23 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ofc-atul&show_icons=true&theme=radical" alt="Atul Sahu's GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofc-atul&theme=radical" alt="Atul Sahu's GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atul-sahu&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atul-sahu&theme=radical" alt="GitHub Streak" width="45%" />
 </p>  
 
 ---
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ofc-atul&theme=darkhub" alt="Atul Sahu's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=atul-sahu&theme=darkhub" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ### 🌟 Featured Projects  
-🚀 **Amazon Clone** - [Live Demo](https://amazon-clone-atul-mu.vercel.app/)  
-🖥️ **YouTube Clone** - [Live Demo](https://youtube-clone-atul.vercel.app/)  
-🍏 **Apple Website Clone** - [Live Demo](https://applebyatul.vercel.app/)  
+🚀 **Amazon Clone** - [Live Demo](https://amazon-clone-atul-mu.vercel.app/) | [GitHub Repo](#)  
+🖥️ **YouTube Clone** - [Live Demo](https://youtube-clone-atul.vercel.app/) | [GitHub Repo](#)  
+🍏 **Apple Website Clone** - [Live Demo](https://applebyatul.vercel.app/) | [GitHub Repo](#)  
 
 ---
 
