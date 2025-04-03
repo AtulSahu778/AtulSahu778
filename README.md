@@ -79,9 +79,9 @@
 ---
 
 ### 🌟 Featured Projects  
-🚀 **Amazon Clone** - [Live Demo](https://amazon-clone-atul-mu.vercel.app/) | [GitHub Repo](#)  
-🖥️ **YouTube Clone** - [Live Demo](https://youtube-clone-atul.vercel.app/) | [GitHub Repo](#)  
-🍏 **Apple Website Clone** - [Live Demo](https://applebyatul.vercel.app/) | [GitHub Repo](#)  
+🚀 **Amazon Clone** - [Live Demo](https://amazon-clone-atul-mu.vercel.app/)  
+🖥️ **YouTube Clone** - [Live Demo](https://youtube-clone-atul.vercel.app/)  
+🍏 **Apple Website Clone** - [Live Demo](https://applebyatul.vercel.app/)  
 
 ---
 
