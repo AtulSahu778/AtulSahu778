@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ⚡ About Me:
 A Full-Stack Developer, I leverage the MERN stack and specialize in integrating advanced AI models to create predictive, intelligent features that solve problems before they arise.
 
 
