@@ -1,9 +1,8 @@
-# ⚡ About Me:
-A Full-Stack Developer, I leverage the MERN stack and specialize in integrating advanced AI models to create predictive, intelligent features that solve problems before they arise.
-
+Hi 👋, I'm Atul Sahu (Web Developer) 🇮🇳
 
 <img width="740" height="159" alt="Screenshot 2025-09-28 111857" src="https://github.com/user-attachments/assets/0b89627f-8a5d-44dd-8516-1dfe221fcd70" />
 
+A Full-Stack Developer, I leverage the MERN stack and specialize in integrating advanced AI models to create predictive, intelligent features that solve problems before they arise.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ofc_atul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atulsahu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ofc_atul) 
