@@ -68,16 +68,4 @@
 
 ---
 
-## 🐍 Contribution Snake  
-![snake gif](https://github.com/AtulSahu778/AtulSahu778/blob/output/github-contribution-grid-snake.svg)  
-
----
-
-## ⚡ Fun Facts  
-- 💡 I believe **“Code is like humor. When you have to explain it, it’s bad.”**  
-- 🎵 Love listening to **Lo-Fi beats** while coding  
-- 🌍 Open-source enthusiast & contributor  
-
----
-
 [![](https://visitcount.itsvg.in/api?id=AtulSahu778&icon=0&color=0)](https://visitcount.itsvg.in)
