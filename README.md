@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Atul Sahu | Full-Stack Web Developer (IN)
 
-<img align="center" width="100%" src="https://github.com/user-attachments/assets/0b89627f-8a5d-44dd-8516-1dfe221fcd70" alt="banner" />
+<img align="center" width="100%" alt="s" src="https://github.com/user-attachments/assets/3ec27699-0bee-4743-acef-276e9f597106" />
 
-## 💡 About Me  
+## 💡 About Me 
 🔹 Passionate **Full-Stack Developer** specializing in the **MERN stack**  
 🔹 I integrate **AI-powered solutions** to build smart, predictive applications  
 🔹 Constant learner who loves solving problems with clean & scalable code  
