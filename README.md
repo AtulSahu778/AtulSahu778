@@ -14,7 +14,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/ofc_atul) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/atulsahu) 
 [![X](https://img.shields.io/badge/Twitter-black.svg?style=flat&logo=X&logoColor=white)](https://x.com/Ofc_atul)  
-📧 **Email:** atulsahu778@gmail.com  
+📧 **Email:** sahuatul2005@gmail.com  
 
 ---
 
