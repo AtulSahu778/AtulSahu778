@@ -3,10 +3,10 @@
 <img align="center" width="100%" alt="s" src="https://github.com/user-attachments/assets/3ec27699-0bee-4743-acef-276e9f597106" />
 
 ## 💡 About Me 
-🔹 Passionate **Full-Stack Developer** specializing in the **MERN stack**  
+🔹 **Full-Stack Developer** specializing in the **MERN stack**  
 🔹 I integrate **AI-powered solutions** to build smart, predictive applications  
 🔹 Constant learner who loves solving problems with clean & scalable code  
-🔹 Exploring **Cloud, DevOps & Next.js** to push boundaries further  
+🔹 Exploring **AI, Web Tech. & Next.js** to push boundaries further  
 
 ---
 
