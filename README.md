@@ -5,7 +5,7 @@
 </p>
 
 
-## 💡 About Me 
+## 💡 About Me: 
 🔹 **Full-Stack Developer** specializing in the **MERN stack**  
 🔹 I integrate **AI-powered solutions** to build smart, predictive applications  
 🔹 Constant learner who loves solving problems with clean & scalable code  
@@ -13,6 +13,7 @@
 
 ---
 
+🌐 Socials:
 <p>
   <a href="https://instagram.com/ofc_atul"><img src="https://skillicons.dev/icons?i=instagram" /></a>&nbsp;
   <a href="https://linkedin.com/in/atulsahu"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
@@ -22,7 +23,7 @@
 
 
 ---
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,js,react,redux,nextjs,nodejs,express,mongodb,supabase,firebase,github,netlify,vercel,figma,photoshop,arduino&theme=dark" alt="Tech Stack" />
 </p>
@@ -30,19 +31,19 @@
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics:  
 ![](https://github-readme-stats.vercel.app/api?username=AtulSahu778&theme=tokyonight&show_icons=true&count_private=true&hide_border=true)<br/>  
 ![](https://nirzak-streak-stats.vercel.app/?user=AtulSahu778&theme=tokyonight&hide_border=true)<br/>  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtulSahu778&theme=tokyonight&layout=compact&hide_border=true)  
 
 ---
 
-## 🏆 Achievements  
+## 🏆 Achievements:  
 ![trophy](https://github-profile-trophy.vercel.app/?username=AtulSahu778&theme=tokyonight&margin-w=10&margin-h=10)  
 
 ---
 
-## 📈 Activity Graph  
+## 📈 Activity Graph:  
 ![Atul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AtulSahu778&theme=tokyo-night)  
 
 ---
