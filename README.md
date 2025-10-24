@@ -20,9 +20,9 @@
 📧 **Email:** sahuatul2005@gmail.com  
 
 ---
-
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,react,redux,nextjs,nodejs,express,mongodb,supabase,firebase,github,netlify,vercel,figma,photoshop,arduino&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,react,redux,nextjs,nodejs,express,mongodb,supabase,firebase,github,netlify,vercel,figma,photoshop,arduino&theme=dark" alt="Tech Stack" />
 </p>
 
 
