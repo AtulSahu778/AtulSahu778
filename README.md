@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Atul Sahu | Full-Stack Web Developer (IN)
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/10e731f7-f7fe-4099-8898-1f4b6af024e5" /># 👋 Hi, I'm Atul Sahu | Full-Stack Web Developer (IN)
 
 <p align="center">
   <img width="100%" alt="s" src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" />
@@ -13,11 +13,13 @@
 
 ---
 
-## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/ofc_atul) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/atulsahu) 
-[![X](https://img.shields.io/badge/Twitter-black.svg?style=flat&logo=X&logoColor=white)](https://x.com/Ofc_atul)  
-📧 **Email:** sahuatul2005@gmail.com  
+<p align="center">
+  <a href="https://instagram.com/ofc_atul"><img src="https://skillicons.dev/icons?i=instagram" /></a>&nbsp;
+  <a href="https://linkedin.com/in/atulsahu"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
+  <a href="https://x.com/Ofc_atul"><img src="https://skillicons.dev/icons?i=twitter" /></a>&nbsp;
+  <a href="mailto:sahuatul2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
 
 ---
 ## 🛠️ Tech Stack
