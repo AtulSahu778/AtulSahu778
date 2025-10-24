@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Atul Sahu | Full-Stack Web Developer (IN)
 
-<img align="center" width="100%" alt="s" src="https://github.com/user-attachments/assets/3ec27699-0bee-4743-acef-276e9f597106" />
+<img align="center" width="100%" alt="s" src="[https://github.com/user-attachments/assets/3ec27699-0bee-4743-acef-276e9f597106](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)" />
 
 ## 💡 About Me 
 🔹 **Full-Stack Developer** specializing in the **MERN stack**  
