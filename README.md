@@ -1,4 +1,4 @@
-# **👋 Hi, I'm Atul Sahu | Full-Stack Web Developer (IN)**
+# **👋 Hi, I'm Atul Sahu | Frontend Web Developer (IN)**
 
 
 <p align="center">
@@ -6,11 +6,11 @@
 </p>
 
 
-## 💡 About Me: 
-🔹 **Full-Stack Developer** specializing in the **MERN stack**  
-🔹 I integrate **AI-powered solutions** to build smart, predictive applications  
-🔹 Constant learner who loves solving problems with clean & scalable code  
-🔹 Exploring **AI, Web Tech. & Next.js** to push boundaries further  
+## 💡 About Me
+🔹 **Frontend Developer** building with **React & Next.js**  
+🔹 Learning **Three.js** to create immersive 3D web experiences  
+🔹 Integrating **AI tools & APIs** to build smarter, more dynamic interfaces  
+🔹 Exploring **WebGL, creative coding & the intersection of AI and frontend**
 
 ---
 
