@@ -26,7 +26,8 @@
 ---
 ## 🛠️ Tech Stack:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,js,react,redux,nextjs,nodejs,express,mongodb,supabase,firebase,github,netlify,vercel,figma,photoshop,arduino&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,react,redux,nextjs,tailwind,vite,mongodb,supabase,firebase,git,github,vscode,postman,aws,cloudflare,bash,netlify,vercel,figma,photoshop,arduino,gcp&perline=14&theme=dark" alt="Tech Stack" />
+
 </p>
 
 
