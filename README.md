@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="100%" alt="s" src="![XBanner](https://github.com/user-attachments/assets/cccfb98a-7398-499a-9549-cce918cde0ac)" />
+  <img width="100%" alt="XBanner" src="https://github.com/user-attachments/assets/cccfb98a-7398-499a-9549-cce918cde0ac" />
 </p>
 
 
