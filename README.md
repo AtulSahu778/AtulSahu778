@@ -41,7 +41,7 @@
 ---
 
 ## 🏆 Achievements:  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AtulSahu778&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AtulSahu778&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
