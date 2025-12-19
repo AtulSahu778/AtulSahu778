@@ -15,7 +15,7 @@
 ---
 
 ## 🌐 Socials:
-<p>
+<p align="center">
   <a href="https://instagram.com/ofc_atul"><img src="https://skillicons.dev/icons?i=instagram" /></a>&nbsp;
   <a href="https://linkedin.com/in/atulsahu"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
   <a href="https://x.com/Ofc_atul"><img src="https://skillicons.dev/icons?i=twitter" /></a>&nbsp;
