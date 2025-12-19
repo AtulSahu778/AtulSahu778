@@ -29,25 +29,3 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,react,redux,nextjs,tailwind,vite,mongodb,supabase,firebase,git,github,vscode,postman,aws,cloudflare,bash,netlify,vercel,figma,photoshop,arduino,gcp&perline=14&theme=dark" alt="Tech Stack" />
 
 </p>
-
-
----
-
-## 📊 GitHub Analytics:  
-![](https://github-readme-stats.vercel.app/api?username=AtulSahu778&theme=tokyonight&show_icons=true&count_private=true&hide_border=true)<br/>  
-![](https://nirzak-streak-stats.vercel.app/?user=AtulSahu778&theme=tokyonight&hide_border=true)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtulSahu778&theme=tokyonight&layout=compact&hide_border=true)  
-
----
-
-## 🏆 Achievements:  
-[![trophy](https://github-profile-trophy.vercel.app/?username=AtulSahu778&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📈 Activity Graph:  
-![Atul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AtulSahu778&theme=tokyo-night)  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=AtulSahu778&icon=0&color=0)](https://visitcount.itsvg.in)
