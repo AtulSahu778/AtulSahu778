@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="100%" alt="XBanner" src=""C:\Users\sahua\OneDrive\Desktop\Codinggif.gif"" />
+  <img width="100%" alt="XBanner" src="file:///C:/Users/sahua/OneDrive/Desktop/Codinggif.gif" />
 </p>
 
 
