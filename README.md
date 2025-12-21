@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="100%" alt="XBanner" src="file:///C:/Users/sahua/OneDrive/Desktop/Codinggif.gif" />
+  <img width="1920" height="732" alt="image" src="https://github.com/user-attachments/assets/2e4e0c66-f1f9-4d2e-ab9b-cf9fa4854598" />
 </p>
 
 
