@@ -31,5 +31,5 @@
 </p>
 
 <p align="center">
-  ![AtulSahu778-space-shooter](https://github.com/user-attachments/assets/1025ad00-0388-42aa-b764-9ec47efcaf86)
+  <img src="https://github.com/user-attachments/assets/1025ad00-0388-42aa-b764-9ec47efcaf86" alt="AtulSahu778-space-shooter" />
 </p>
