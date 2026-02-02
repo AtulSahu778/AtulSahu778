@@ -29,3 +29,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,react,redux,nextjs,tailwind,vite,mongodb,supabase,firebase,git,github,vscode,postman,aws,cloudflare,bash,netlify,vercel,figma,photoshop,arduino,gcp&perline=14&theme=dark" alt="Tech Stack" />
 
 </p>
+
+<p align="center">
+  ![AtulSahu778-space-shooter](https://github.com/user-attachments/assets/1025ad00-0388-42aa-b764-9ec47efcaf86)
+</p>
