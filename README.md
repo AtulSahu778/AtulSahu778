@@ -7,11 +7,10 @@
 
 
 ## 💡 About Me
-🔹 **I Build Products**
-🔹 **Developer** building with **React & Next.js** 
-🔹 Integrating **AI tools & APIs** to build smarter, more dynamic interfaces  
-🔹 Working with **PostgreSQL for reliable, scalable data storage**
-
+🔹 I build products
+🔹 Developer working with React & Next.js
+🔹 Integrating AI tools & APIs to create smarter, more dynamic interfaces
+🔹 Working with PostgreSQL for reliable, scalable data storage
 ---
 
 ## 🌐 Socials:
