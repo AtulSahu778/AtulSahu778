@@ -38,6 +38,4 @@
 
 ---
 
-## 🚀 Featured Activity
-
 <img src="https://github.com/user-attachments/assets/1025ad00-0388-42aa-b764-9ec47efcaf86" width="80%" alt="AtulSahu778-space-shooter" />
