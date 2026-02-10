@@ -1,4 +1,4 @@
-# **👋 Hi, I'm Atul Sahu | Frontend Web Developer (IN)**
+# **👋 Hi, I'm Atul Sahu | Developer (IN)**
 
 
 <p align="center">
@@ -7,10 +7,10 @@
 
 
 ## 💡 About Me
-🔹 **Frontend Developer** building with **React & Next.js**  
-🔹 Learning **Three.js** to create immersive 3D web experiences  
+🔹 **I Build Products**
+🔹 **Developer** building with **React & Next.js** 
 🔹 Integrating **AI tools & APIs** to build smarter, more dynamic interfaces  
-🔹 Exploring **WebGL, creative coding & the intersection of AI and frontend**
+🔹 Working with **PostgreSQL for reliable, scalable data storage**
 
 ---
 
