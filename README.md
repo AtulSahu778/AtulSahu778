@@ -6,10 +6,12 @@
 
 ## 💡 About Me
 
-🔹 I build products that solve real-world problems  
-🔹 Specialized in **React** & **Next.js** for modern web apps  
-🔹 Integrating **AI APIs** to create intelligent user interfaces  
-🔹 Managing data with **PostgreSQL** & **Supabase**
+🔹 I build scalable, production-ready products that solve real-world problems  
+🔹 Frontend expertise in **React.js** & **Next.js** for high-performance web applications  
+🔹 Backend development with **Node.js**, **Express.js**, and **Supabase**  
+🔹 Database architecture using **MongoDB** & **PostgreSQL**  
+🔹 Integrating **AI tools & APIs** to build intelligent, data-driven user experiences  
+🔹 Competitive problem solver — Top 9% on Coding Ninjas (July 2024)
 
 ---
 
