@@ -39,5 +39,6 @@
 </div>
 
 ---
-
-<img align="center" src="https://github.com/user-attachments/assets/b203285e-3772-44f5-adc6-c379a90a7a44" width="80%" alt="AtulSahu778-space-shooter" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b203285e-3772-44f5-adc6-c379a90a7a44" width="80%" alt="AtulSahu778-space-shooter" />
+</div>
