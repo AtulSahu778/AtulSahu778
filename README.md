@@ -18,12 +18,12 @@
 ## 🌐 Let's Connect:
 
 <div align="center">
-  
-<a href="mailto:sahuatul2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+
+<a href="mailto:sahuatul2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>&nbsp;
 <a href="https://linkedin.com/in/atulsahu"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
 <a href="https://x.com/Ofc_atul"><img src="https://skillicons.dev/icons?i=twitter" /></a>&nbsp;
 <a href="https://instagram.com/ofc_atul"><img src="https://skillicons.dev/icons?i=instagram" /></a>&nbsp;
-
+<a href="https://atulsahu.in"><img src="https://www.google.com/s2/favicons?domain=atulsahu.in&sz=128" width="48" height="48" style="border-radius:8px;" /></a>
 
 </div>
 
