@@ -10,8 +10,6 @@
 * Full-stack development with **Node.js, Express.js, MongoDB, and PostgreSQL**.
 * Building AI-powered applications by integrating **AI models and APIs**.
 * **SAP Labs STAR Scholar** | Selected for the four-year STAR Program.
-* **Competitive Programmer** | Top 9% on Coding Ninjas.
-
 
 ---
 
