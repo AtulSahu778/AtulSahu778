@@ -6,12 +6,12 @@
 
 ## 💡 About Me
 
-🔹 I build scalable, production-ready products that solve real-world problems  
-🔹 Frontend expertise in **React.js** & **Next.js** for high-performance web applications  
-🔹 Backend development with **Node.js**, **Express.js**, and **Supabase**  
-🔹 Database architecture using **MongoDB** & **PostgreSQL**  
-🔹 Integrating **AI tools & APIs** to build intelligent, data-driven user experiences  
-🔹 Competitive problem solver — Top 9% on Coding Ninjas (July 2024)
+* Building scalable, production-ready applications using **React.js, Next.js, and TypeScript**.
+* Full-stack development with **Node.js, Express.js, MongoDB, and PostgreSQL**.
+* Building AI-powered applications by integrating **AI models and APIs**.
+* **SAP Labs STAR Scholar** | Selected for the four-year STAR Program.
+* **Competitive Programmer** | Top 9% on Coding Ninjas.
+
 
 ---
 
