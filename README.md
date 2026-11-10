@@ -1,6 +1,7 @@
 # **👋 Hi, I'm Atul Sahu** | Developer(**IN**)
 
-<img width="985" height="652" alt="image" src="https://github.com/user-attachments/assets/5cbc7f30-9fd4-480f-9e05-c49ab66766ad" />
+<img width="929" height="581" alt="Screenshot 2026-11-10 104942" src="https://github.com/user-attachments/assets/97c8a832-87bc-4a53-8be2-fe8ab9bc0369" />
+
 
 
 ---
